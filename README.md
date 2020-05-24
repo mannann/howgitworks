@@ -1,1 +1,1 @@
-# howgitworks
+# How GIT Works
